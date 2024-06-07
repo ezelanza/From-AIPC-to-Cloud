@@ -4,3 +4,4 @@ libpng-bins
 torchvision
 intel-extension-for-pytorch
 scikit-learn
+numpy
