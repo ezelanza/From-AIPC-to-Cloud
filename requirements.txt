@@ -1,0 +1,4 @@
+matplotlib
+pylibjpeg-libjpeg
+libpng-bins
+torchvision
