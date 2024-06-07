@@ -2,3 +2,5 @@ matplotlib
 pylibjpeg-libjpeg
 libpng-bins
 torchvision
+intel-extension-for-pytorch
+scikit-learn
